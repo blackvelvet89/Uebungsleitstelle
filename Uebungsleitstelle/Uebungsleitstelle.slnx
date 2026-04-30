@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="uebungsleitstelle.client/uebungsleitstelle.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Uebungsleitstelle.Server/Uebungsleitstelle.Server.csproj" />
+</Solution>
